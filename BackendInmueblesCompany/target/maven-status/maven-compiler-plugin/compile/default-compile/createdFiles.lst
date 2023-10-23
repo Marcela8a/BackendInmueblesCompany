@@ -1,0 +1,10 @@
+com\inmueblescompany\modelos\registroinmueble\RegistroInmuebleDAO.class
+com\inmueblescompany\conexionbd\ConexionMySql.class
+com\inmueblescompany\apis\RegistroInmuebleResource.class
+com\inmueblescompany\casosdeuso\BusquedaInmueblesBusiness.class
+com\inmueblescompany\casosdeuso\respuestas\ResultadoInmueblesPorPersonaVO.class
+com\inmueblescompany\casosdeuso\IBusquedaInmuebles.class
+com\inmueblescompany\modelos\registroinmueble\RegistroInmuebleVO.class
+com\inmueblescompany\modelos\persona\PersonaVO.class
+com\inmueblescompany\modelos\inmueble\InmuebleVO.class
+com\inmueblescompany\apis\PersonaResource.class

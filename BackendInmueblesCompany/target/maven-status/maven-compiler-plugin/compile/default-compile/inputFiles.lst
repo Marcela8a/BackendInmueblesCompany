@@ -1,0 +1,11 @@
+C:\Users\Marce\ProyectosJava\BackendInmueblesCompany\src\main\java\com\inmueblescompany\modelos\inmueble\InmuebleVO.java
+C:\Users\Marce\ProyectosJava\BackendInmueblesCompany\src\main\java\com\inmueblescompany\modelos\registroinmueble\RegistroInmuebleVO.java
+C:\Users\Marce\ProyectosJava\BackendInmueblesCompany\src\main\java\com\inmueblescompany\modelos\registroinmueble\RegistroInmuebleDAO.java
+C:\Users\Marce\ProyectosJava\BackendInmueblesCompany\src\main\java\com\inmueblescompany\modelos\persona\PersonaVO.java
+C:\Users\Marce\ProyectosJava\BackendInmueblesCompany\src\main\java\com\inmueblescompany\casosdeuso\BusquedaInmueblesBusiness.java
+C:\Users\Marce\ProyectosJava\BackendInmueblesCompany\src\main\java\com\inmueblescompany\conexionbd\ConexionMySql.java
+C:\Users\Marce\ProyectosJava\BackendInmueblesCompany\src\main\java\com\inmueblescompany\apis\PersonaResource.java
+C:\Users\Marce\ProyectosJava\BackendInmueblesCompany\src\main\java\com\inmueblescompany\apis\RegistroInmuebleResource.java
+C:\Users\Marce\ProyectosJava\BackendInmueblesCompany\src\main\java\com\inmueblescompany\apis\HelloResource.java
+C:\Users\Marce\ProyectosJava\BackendInmueblesCompany\src\main\java\com\inmueblescompany\casosdeuso\IBusquedaInmuebles.java
+C:\Users\Marce\ProyectosJava\BackendInmueblesCompany\src\main\java\com\inmueblescompany\casosdeuso\respuestas\ResultadoInmueblesPorPersonaVO.java
